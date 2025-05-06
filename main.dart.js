@@ -13395,7 +13395,7 @@ return new A.B4(A.iS(a.a,b.a,c))},
 B4:function B4(a){this.a=a},
 TX:function TX(){},
 MS(a,b,c,d){var s
-if(c==null)s=d===1?B.OL:B.k7
+if(c==null)s=d===1?B.yi:B.k7
 else s=c
 return new A.B8(a,b,s,B.NP,B.NQ,d,!0,null)},
 aJP(a,b){return new A.Gq(b.gag5(),b.gag4(),null)},
@@ -64584,7 +64584,7 @@ $S:0}
 A.Ba.prototype={}
 A.Ro.prototype={
 LA(a){var s,r=a.bX()
-if($.bU().a!==$.aqt()){s=B.OM.bX()
+if($.bU().a!==$.aqt()){s=B.OL.bX()
 s.m(0,"isMultiline",a.b.j(0,B.k7))
 r.m(0,"inputType",s)}return r},
 Xr(a){var s,r=$.bU().c
@@ -80426,7 +80426,7 @@ return A.J(n.gd6().iA(1),$async$n3)
 case 7:m=b
 l=o.w?"Blue":"Red"
 f=o.a
-k="q"+f.d+"-"+f.c
+k=f.c+"-q"+f.d
 j=A.b([l,o.x,o.y,o.e,o.f,o.r],t.jl)
 s=!J.lr(m,k)?8:9
 break
@@ -80552,7 +80552,7 @@ q=l.b
 p=l.y
 o=i*0.02
 n=i/16
-return A.tz(A.qF(m,m,!0,B.Sj),m,new A.c_(B.E6,A.eh(A.b([A.pt(A.b([A.Iv(A.MS(this.d,A.Jh(m,new A.eK(4,A.fF(8),B.cV),m,new A.aE(j,k,j,k),m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.yp,"Enter Match Number",!0,m,m,m,m,m,m,m,m,m,m,m,m,m),B.yi,1)),B.NL,A.Iv(A.MS(this.e,A.Jh(m,new A.eK(4,A.fF(8),B.cV),m,new A.aE(j,k,j,k),m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.yp,"Enter Team Number",!0,m,m,m,m,m,m,m,m,m,m,m,m,m),B.yi,1))],s),B.T,B.fV,B.aj),A.bW(m,i/24,m),A.bW(A.fJ(B.Sh,new A.aiu(this,a),A.jZ(m,m,q,m,m,m,m,m,m,m,m,m,new A.aE(0,o,0,o),m,new A.cq(A.fF(12),B.o),new A.aL(p,8,B.p,-1),m,m,m,m)),r,m),A.bW(m,n,m),A.bW(A.fJ(B.Sk,new A.aiv(a),A.jZ(m,m,q,m,m,m,m,m,m,m,m,m,new A.aE(0,o,0,o),m,new A.cq(A.fF(8),B.o),new A.aL(p,8,B.p,-1),m,m,m,m)),r,m),A.bW(m,n,m),A.bW(A.fJ(B.Sw,new A.aiw(a),A.jZ(m,m,q,m,m,m,m,m,m,m,m,m,new A.aE(0,o,0,o),m,new A.cq(A.fF(8),B.o),new A.aL(p,8,B.p,-1),m,m,m,m)),r,m)],s),B.dZ,B.a8,B.aj),m),m,!1)}}
+return A.tz(A.qF(m,m,!0,B.Sj),m,new A.c_(B.E6,A.eh(A.b([A.pt(A.b([A.Iv(A.MS(this.d,A.Jh(m,new A.eK(4,A.fF(8),B.cV),m,new A.aE(j,k,j,k),m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.yp,"Enter Match Number",!0,m,m,m,m,m,m,m,m,m,m,m,m,m),B.OM,1)),B.NL,A.Iv(A.MS(this.e,A.Jh(m,new A.eK(4,A.fF(8),B.cV),m,new A.aE(j,k,j,k),m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.yp,"Enter Team Number",!0,m,m,m,m,m,m,m,m,m,m,m,m,m),B.yi,1))],s),B.T,B.fV,B.aj),A.bW(m,i/24,m),A.bW(A.fJ(B.Sh,new A.aiu(this,a),A.jZ(m,m,q,m,m,m,m,m,m,m,m,m,new A.aE(0,o,0,o),m,new A.cq(A.fF(12),B.o),new A.aL(p,8,B.p,-1),m,m,m,m)),r,m),A.bW(m,n,m),A.bW(A.fJ(B.Sk,new A.aiv(a),A.jZ(m,m,q,m,m,m,m,m,m,m,m,m,new A.aE(0,o,0,o),m,new A.cq(A.fF(8),B.o),new A.aL(p,8,B.p,-1),m,m,m,m)),r,m),A.bW(m,n,m),A.bW(A.fJ(B.Sw,new A.aiw(a),A.jZ(m,m,q,m,m,m,m,m,m,m,m,m,new A.aE(0,o,0,o),m,new A.cq(A.fF(8),B.o),new A.aL(p,8,B.p,-1),m,m,m,m)),r,m)],s),B.dZ,B.a8,B.aj),m),m,!1)}}
 A.aiu.prototype={
 $0(){var s=this.a
 if(s.e.a.a.length!==0&&s.d.a.a.length!==0){s=A.oQ(new A.ait(s),null,t.z)
@@ -88642,10 +88642,10 @@ B.OH=new A.eQ(6,"next")
 B.OI=new A.eQ(7,"previous")
 B.OJ=new A.eQ(8,"continueAction")
 B.OK=new A.eQ(9,"join")
-B.OL=new A.pQ(0,null,null)
-B.OM=new A.pQ(10,null,null)
+B.yi=new A.pQ(0,null,null)
+B.OL=new A.pQ(10,null,null)
 B.k7=new A.pQ(1,null,null)
-B.yi=new A.pQ(2,!1,!1)
+B.OM=new A.pQ(2,!1,!1)
 B.v=new A.MV(1,"even")
 B.ay=new A.Bc(2,"ellipsis")
 B.ON=new A.Bc(3,"visible")
@@ -89710,7 +89710,7 @@ s($,"aU9","aDy",()=>A.a4i(A.bZ([B.jb],t.v)))
 s($,"aTg","aCZ",()=>A.a4i(A.bZ([B.jc],t.v)))
 s($,"aU2","aDu",()=>A.a4i(A.bZ([B.jd],t.v)))
 s($,"aV2","aE2",()=>new A.a8D(A.q(t.N,A.al("an<cG?>?(cG?)"))))
-r($,"aUV","Gd",()=>A.ah(["Mechanism Broke",!1,"Stopped Moving",!1,"Excellent driver",!1,"Good driver",!1,"Medium driver",!1,"MoGo clamp weak",!1,"MoGo clamp strong",!1,"Camping",!1,"Scoring",!1,"Switching",!1,"Kept Corner",!1,"Lost Corner",!1,"Steal Corner",!1,"Neat",!1,"Not Neat",!1,"GP1",!1,"GP2",!1,"GP3",!1],t.N,t.y))
+r($,"aUV","Gd",()=>A.ah(["Excellent driver",!1,"Good driver",!1,"Medium driver",!1,"Camping",!1,"Scoring",!1,"Switching",!1,"Kept Corner",!1,"Lost Corner",!1,"Steal Corner",!1,"Mechanism Broke",!1,"Stopped Moving",!1,"Neat",!1,"MoGo clamp weak",!1,"MoGo clamp strong",!1,"Not Neat",!1,"GP1",!1,"GP2",!1,"GP3",!1],t.N,t.y))
 r($,"aUP","aub",()=>$.Gd().gbD().ed(0))
 s($,"aTn","aD0",()=>A.ayI(255))
 s($,"aUJ","au6",()=>A.aLN("https","oauth2.googleapis.com","token",null))
